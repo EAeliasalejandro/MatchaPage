@@ -3,7 +3,7 @@
   src: url("fonts/TRYVesterbro-Extrabold.otf");
 }
 
-.boton_personalizado{
+.botonPersonalizado{
     text-decoration: none;
     padding: 15px;
     font-weight: 600;
@@ -13,7 +13,7 @@
     border-radius: 6px;
     border: 0px 
   }
-  .boton_personalizado:hover{
+  .botonPersonalizado:hover{
     color: #025157;
     background-color: #fff;
   }
