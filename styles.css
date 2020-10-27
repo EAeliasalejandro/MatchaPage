@@ -1,0 +1,32 @@
+@font-face{
+	font-family: "VesterbroExtraBold";
+  src: url("fonts/TRYVesterbro-Extrabold.otf");
+}
+
+.boton_personalizado{
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffff;
+    background-color:#025157;
+    border-radius: 6px;
+    border: 0px 
+  }
+  .boton_personalizado:hover{
+    color: #025157;
+    background-color: #fff;
+  }
+
+#cabecera{
+	color: #025157;
+	font-size: 68px;
+	font-family: "VesterbroExtraBold";
+}
+#textProm{
+	color: #8b8b8bcc;
+	font-size: 30px;
+}
+#container{
+	background-color: #fffbf7;
+}
